@@ -1,4 +1,5 @@
-__     _   _ _     _   _ _____ ____        _    ____  ___ _     ___ _______     __
+```
+ __     _   _ _     _   _ _____ ____        _    ____  ___ _     ___ _______     __
  \ \   / / | | | |   | \ | | ____|  _ \      / \  | __ )_ _| |   |_ _|_   _\ \   / /
   \ \ / /| | | | |   |  \| |  _| | |_) |    / _ \ |  _ \| || |    | |  | |  \ \ / / 
    \ V / | |_| | |___| |\  | |___|  _ <    / ___ \| |_) | || |___ | |  | |   \ V /  
@@ -8,7 +9,7 @@ __     _   _ _     _   _ _____ ____        _    ____  ___ _     ___ _______     
    / _ \ |  \| | / _ \ | |  \ V /\___ \ | \___ \ 
   / ___ \| |\  |/ ___ \| |___| |  ___) || | ___) |
  /_/   \_\_| \_/_/   \_\_____|_| |____/___|____/ 
-
+```
 VULNERABILITY-ANALYSIS (LYNIS WRAPPER)
 A powerful Python-based security auditing tool that automates system hardening 
 and vulnerability scans using the 'Lynis' engine. It provides a comprehensive 
